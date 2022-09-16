@@ -14,7 +14,7 @@ All comments and suggestions are welcome and appreciated. Please feel free to ad
 | **Field** | **Description** | 
 | --- | --- |
 | **Objective** | <li> Create a PoC <li> Create a releasable app <li> Application Management and various project management tasks <li> Application development lifecycle <li> Planning and Design <li> Development and Testing <li> Deployment and Support <li> Troubleshooting and Debugging <li> Monitoring, updates, and security <li> End User support and training <li> Project Management, Collaboration, and Communication | 
-| **Skill Set** | <li> Web and mobile development languages, such as JS, TypcScript, JHava, C#, Python, Swift, etc. <li> May not have C++ experience | 
+| **Skill Set** | <li> Web and mobile development languages, such as JS, TypeScript, Java, C#, Python, Swift, etc. <li> May not have C++ experience | 
 | **Doc Needs** | <li> Community resource info <li> Example apps and reference architectures <li> Error handling/messaging and troubleshooting guide <li> Getting Started Guide <li> Examples and sample code <li> Best practices<li> Protocol Guides | 
 
 **Notes:**
