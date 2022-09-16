@@ -1,6 +1,6 @@
 # Blockchain Developer Roles
 
-# Introduction
+## Introduction
 This document describes several developer roles used in a blockchain environment as well as their skill sets and links to applicable EOS related documentation. EOS related content is currently under construction.
 
 EOS related content topics are tagged with these developer roles and can be directly accessed from the content portal (under construction) for developer journeys through the EOS related content.
@@ -10,7 +10,7 @@ Interested in contributing? That's awesome! [Here are some guidelines to get sta
 
 All comments and suggestions are welcome and appreciated. Please feel free to add your comments, changes, and updates to this documentation through Github.
 
-# App Developer
+## App Developer
 | **Field** | **Description** | 
 | --- | --- |
 | **Objective** | <li> Create a PoC <li> Create a releasable app <li> Application Management and various project management tasks <li> Application development lifecycle <li> Planning and Design <li> Development and Testing <li> Deployment and Support <li> Troubleshooting and Debugging <li> Monitoring, updates, and security <li> End User support and training <li> Project Management, Collaboration, and Communication | 
@@ -35,7 +35,7 @@ Here are 10 examples of important mobile app developer skills to help you be suc
 * Product management skills. ...
 * Internet of things (IoT) skills.
 
-# Block Producer
+## Block Producer
 | **Field** | **Description** | 
 | --- | --- |
 | **Objective** | <li> Block producers play a key role in the operation of the network. Block producers verify transactions on the EOSIO networks by collecting transaction data and storing that information in blocks. Once a block is prepared, block producers broadcast the block to the network for verification. <li> In the Antelope ecosystem, block production and block validation are performed by special nodes called "block producers". Producers are elected by Antelope stakeholders. Each producer runs an instance of an Antelope node through the nodeos service. For this reason, producers that are on the active schedule to produce blocks are also called "active" or "producing" nodes. <li> Select transactions and gather transaction data to build a new block <li> Propose the next state of the new block by creating a different staged ledger to cover both the account ledger, and transactions that have yet to be proven <li> Generate blockchain proof to validate the new state, and create a delta transition chain proof to verify the validity of the block within an acceptable network delay time frame (as defined by the network) <li> Apply the proof to the new state <li> Broadcast and disseminate the new block to other block producers. <li> Submit new blocks to the network for reward after verification is completed | 
@@ -55,7 +55,7 @@ Here are 10 examples of important mobile app developer skills to help you be suc
 **Notes:**
 <li> [https://www.blockchainecosystem.io/ask/what-does-it-mean-to-be-a-blockchain-node-operator-are-there-any-blockchains-out-there-that-don-t-have-node-operators](https://www.blockchainecosystem.io/ask/what-does-it-mean-to-be-a-blockchain-node-operator-are-there-any-blockchains-out-there-that-don-t-have-node-operators)
 
-# Smart Contract Developer (C++)
+## Smart Contract Developer (C++)
 | **Field** | **Description** | 
 | --- | --- |
 | **Objective** | <li> Smart contracts are programs stored on a blockchain that run when predetermined conditions are met. They typically are used to automate the execution of an agreement so that all participants can be immediately certain of the outcome, without any intermediary’s involvement or time loss. They can also automate a workflow, triggering the next action when conditions are met. <li> An accessible and effortless way to interact with the blockchain <li> Develop, deploy and manage smart contracts on a public blockchain (EVM or WASM). <li> Explore design implications around smart contracts and their interactions with each other. <li> Work with the Product team to explore feasibility and design of the decentralization of various processes. <li> Take ownership from the ideation phase to deployment and management. | 
