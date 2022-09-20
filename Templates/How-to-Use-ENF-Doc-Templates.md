@@ -1,7 +1,6 @@
 # How to Use ENF Doc Templates
 
-
-To submit your documentation to the EOS Network Foundation, create a fork of the receiving repository and then add work on your own fork. From there, do a PR from their fork to ours.
+To submit your documentation to the EOS Network Foundation, create a fork of the receiving repository and then add work on your own fork. From there, do a PR from your fork to the main branch. DevRel then reviews the PR, suggests changes, if any, and after approval the PR can be merged. 
 
 ENF Templates use MarkDown language.
 
