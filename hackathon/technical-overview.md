@@ -46,11 +46,11 @@ You can build on Antelope without additional infrastructure.
 
 ## Advanced Examples
 ### Lambda Architecture/ Data Warehousing
-#### Description
+#### `Description`
 Data Warehouses write a lot of data to be analyzed later. There may be one or two key metrics that are known in advance, and these metrics are used frequently for decision making. These frequently used metrics should be available in real time.  
-#### Example
+#### `Example`
 Web access logs. We need the number of active users, the number of clicks per session, and the number of errors per period of time. Anything else will require specific log analysis.
-#### Application Design
+#### `Application Design`
 Web logs would be sent to a smart contract. The smart contract would build a table indexed by time containing the values. You don’t need to write records to the blockchain. The transaction sent to call the contract would contain your weblog and would be written to the blockchain.  
 
 The smart contract would collect the data and write new values every 1 minute. To save space, same ram and save $$
@@ -61,11 +61,11 @@ The smart contract would collect the data and write new values every 1 minute. T
 Later processing an analysis of the logs may be done by looking through past blocks pulling out the transactions submitted to your smart contract.
 
 ### Order Books
-#### Description
+#### `Description`
 Order Books match producers and consumers, often by a criterial like price. Sometimes it takes multiple orders to fulfill a desired quantity.  
-#### Example
+#### `Example`
 Order Books are commonly found in financial transactions to match buyers and sellers. For example matching sellers and buyers by amount and price. A party wants to sell 1 unit for $100/unit. There is a buyer who will buy 0.2 units for $100/unit. That leaves a remaining 0.8 units unsold. A process can walk down an order book looking for the next buyer at $100/unit until the open quantity is zero.
-#### Application Design
+#### `Application Design`
 Antelope has ordered indexes, and multiple indexes. To support this scenario create a table consisting of
 - Order Id
 - Type (Buy or Sell)
