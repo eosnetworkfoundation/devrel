@@ -4,14 +4,14 @@
 Applicable Roles: [Identify developer roles/personas that find this type of information useful.]
 
 # Introduction
-The purpose of this procedure is to [do something] to [achieve result]. [Why is this procedure important?}
+The purpose of this procedure is to [do something] to [achieve result]. [Why is this procedure important?]
 
 Use this procedure [when] under [what circumstances]
 
 The expected result when you [use, launch, add, …] this procedure is [result].
 
 # Prerequisites
-Complete the following tasks prior to [using, launching, adding …] the [feature name]: <li> 
+Complete the following tasks prior to [using, launching, adding, etc.] the [feature name]:
 
 # Procedure
 Complete the following steps to achieve [result]: [Each step describes a single action and the result of performing the step.]
