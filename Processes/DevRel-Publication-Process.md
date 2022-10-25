@@ -1,29 +1,33 @@
-# Process: Publish New or Updated Content to the Dev Portal
+# Process: Write, Edit, Update Content using GitHub
 
 ## Overview
-This document provides instructions on how to publish new or updated content to the EOS Dev Portal (docs.eosnetwork.com).
+This document provides instructions on how to publish new or updated content to EOS Documentation (https://docs.eosnetwork.com).
 
-**Note**: New or updated content is published to a private staging environment every day, which allows for content review prior to publication of content to the public dev portal. Once content is reviewed and approved for public consumption, the content can be published to the public dev portal. This publication process can be scheduled or ad hoc, depending on the need for the community to consume the content.
 
 ### When to Use this Procedure
-Use this procedure when you need to update content from multiple repositories to the [EOS Dev Portal](http://docs.eosnetwork.com).
+Use this procedure when you need to update content from multiple repositories to  [EOS Documentation](https://docs.eosnetwork.com).
 
 ### Expected Results
-Fresh, updated content is available for consumption on the EOS Dev Portal.
+Fresh, updated content is available for consumption in EOS Documentation.
 
-# Procedures Contained in This Publication Process
-Complete the following procedures to publish new or updated content to the EOS Dev Portal:
-1. Create/Edit Files
-2. Create Commits/Push Changes
-3. Check Changes on Your Remote/Target Branch
-4. Pull Remote Changes from Your Remote Branch
-5. Update Existing Files (Refer to Create/Edit Files)
-6. Rename Files
+## Procedures Contained in This Publication Process
+### External Contributor (not part of this org)
+1. Fork the docs repository
+2. Create a new branch
+3. Create/edit/rename files
+4. Create a Pull Request with the target as this repository's main branch
+5. Request a review
+
+### Internal Contributor (part of this org)
+1. Create a new branch
+2. Create/edit/rename files
+3. Create a Pull Request with main branch
+4. Request a review
+
+
 
 ## Definitions
 The following table provides definitions for Github branches used in this process:
-
-***Note***: A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the “live” version. When you’ve made the changes you want to make, you can merge your branch back into the main branch to publish your changes. ([GitHub Docs: Glossary](https://docs.github.com/en/get-started/quickstart/github-glossary))
 
 | **Branch** | **Definition** | 
 | --- | --- |
@@ -35,13 +39,12 @@ The following table provides definitions for Github branches used in this proces
 | Source | The source branch contains updates to be merged into the target branch. Typically the changes you made previously to the target branch become the source branch for the final merge into the main branch. | 
 | Target | The repository and branch location where you want your new or updated content to reside | 
 
-## How to Publish New or Updated Content to the EOS Dev Portal
+## How to Publish New or Updated Content to EOS Documentation
 
 ### Before You Begin
 Ensure you have the following items ready before you begin this procedure:
 * Infrastructure - appropriate repository(ies) available for PR/Commit
 * Access to Github Engineering and DevRel repositories, as necessary
-* Create a DevRel ticket/issue - have the issue number (the #N number) available
 * Release version; major or minor
  * Release version determined by the developers making the release branch
 * Knowledge of the code branch/tag
