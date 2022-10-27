@@ -1,4 +1,4 @@
-# How To Use Github to Create/Edit EOS Documentation
+# How To Create and Edit EOS Documentation in GitHub
 ## Definitions
 The following table provides definitions for Github branches used in this process:
 
