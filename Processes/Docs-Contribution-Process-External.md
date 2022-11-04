@@ -1,7 +1,7 @@
 # Docs Contribution Process - External
 
 ## Overview
-This document provides instructions for contributors external to the ENF Foundation on how to contribute new or updated content to EOS Documentation (https://docs.eosnetwork.com).
+This document provides instructions for contributors external to the ENF Foundation on how to contribute new or updated content to [EOS Documentation](https://docs.eosnetwork.com).
 
 ### When to Use this Procedure
 Use this procedure when you need to update content from one or repositories to  [EOS Documentation](https://docs.eosnetwork.com).
