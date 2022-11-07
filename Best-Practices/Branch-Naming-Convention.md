@@ -2,6 +2,9 @@ When you create a new DevRel branch, use the following branch naming convention:
 
 `<feature|fix>-devrel#<issue#>`
 
+For example: feature-devrel#52  
+             fix-devrel#56  
+
     Use `feature` if adding new content
 
     Use `fix` if updating or deleting existing content
