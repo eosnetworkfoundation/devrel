@@ -1,6 +1,6 @@
-# Setup and Configuration Process to Move .md Files to EOS Documentation
+# Build and Release Process for a New Version of the Docs and Index for Devdocs
 
-This process provides instructions for setting up and updating the [EOS Documentation](https://docs.eosnetwork.com). 
+This process provides instructions to set up and configure the [EOS Documentation Portal](https://docs.eosnetwork.com). 
 
 ## How to Build a New Document Repository
 
