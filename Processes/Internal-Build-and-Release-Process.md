@@ -1,4 +1,4 @@
-# Build and Release Process for a New Version of the Docs and Index for Devdocs
+# Internal - Build and Release Process for a New Version of the Docs and Index for Devdocs
 
 This process provides instructions to set up and configure the [EOS Documentation Portal](https://docs.eosnetwork.com). 
 
