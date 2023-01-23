@@ -1,12 +1,12 @@
 # How To Create and Edit EOS Documentation in GitHub
 ## Definitions
-The following table provides definitions for Github branches used in this process:
+The following table provides definitions for GitHub branches used in this process:
 
 | **Branch** | **Definition** | 
 | --- | --- |
 | Current | The current branch is the present branch. This branch has focus. | 
-| Default | Each repository contains one default branch, which is typically called main. GitHub creates this branch when a repository is initialized. | 
-| Local | The local branch resides in your local environment. Changes made to the local branch are merged into a target branch. | 
+| Default | Each repository contains one default branch,  called main. GitHub creates this branch when a repository is initialized. | 
+| Local | Your local branch on GitHub resides in your local environment. Changes made to the local branch are merged into a target branch. | 
 | Main | The main branch is typically the default branch. PRs merge a source branch to the main branch. | 
 | Remote | The remote branch is typically your local branch. | 
 | Source | The source branch contains updates to be merged into the target branch. Typically the changes you made previously to the target branch become the source branch for the final merge into the main branch. | 
@@ -21,18 +21,18 @@ Ensure you have the following items ready before you begin this procedure:
 * Release version; major or minor
  * Release version determined by the developers making the release branch
 * Knowledge of the code branch/tag
- * Use the release branch
+  * Use the release branch
 * Content ready for publish
- * Templates applied?
- * Reviews complete?
- * Edit complete?
- * Stakeholder signoff?
+  * Templates applied?
+  * Reviews complete?
+  * Edit complete?
+  * Stakeholder signoff?
 
 ## To Create/Edit Files
 Complete the following steps to create/edit files:
 1. Open the target github repository from your web browser.
 
-    **Note**: The target GitHub repository is the location where you want to edit or add new content, the repo where you want to push your changes. For the docs repository, the target branch is “main.”
+    **Note**: The target GitHub repository is the location where you want to edit or add new content, the repo where you want to push your changes. 
 
 
 **For example**: When adding glossary items to the glossary, the target GitHuib repository is the “docs” repository, which contains the glossary file.   
