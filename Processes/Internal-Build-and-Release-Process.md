@@ -6,13 +6,13 @@ This process provides instructions to set up and configure the [EOS Documentatio
 
 The following link provides instructions on how to build a new document repository. Use this procedure to initiate a new document repository for EOS Documentation (infrastructure), when necessary.  
 
-[How to Build a New Repository](https://github.com/eosnetworkfoundation/devdocs/blob/main/docs/How-To-Do-A-Full-Release.md) 
+[How to Build a New Repository](https://github.com/eosnetworkfoundation/docsgen/blob/main/docs/How-To-Do-A-Full-Release.md) 
 
 ## How to Generate Documentation 
 
 The following link provides instructions on how to generate EOS Documentation.  
 
-[How to Automate Documentation](https://github.com/eosnetworkfoundation/devdocs/blob/main/README.md) 
+[How to Automate Documentation](https://github.com/eosnetworkfoundation/docsgen/blob/main/README.md) 
 
 ## How to Make Changes to EOS Documentation Navigation 
 
