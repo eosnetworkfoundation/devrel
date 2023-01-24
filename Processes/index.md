@@ -7,8 +7,9 @@ Create a pull request (PR) to submit content to the Docs Portal. The DevRel team
 
 ### Stages of Submission Process
 
-Create Pull Request (PR)
-Make edits/corrections on PR based on review
+* Create Pull Request (PR)
+
+* Make edits/corrections on PR, as needed 
 * [How to write content for the Docs Portal](/processes/how-to-write-content-for-the-Docs-portal.md) 
 
 * [How to submit content to the Docs Portal](processes/how-to-submit-content-to-the-docs-portal.md) 
