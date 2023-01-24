@@ -1,7 +1,7 @@
 ## How To Write Content for the EOS Documentation Portal
 Provide content to the DevRel team in Markdown (.md) format. Please use our MarkDown templates to structure your content.
 
-1. [Apply a template to your content](../templates/index.md), if applicable
+1. [Apply a template to your content](../Templates/index.md), if applicable
 
 2. [Write your content](./How-To-Write-Content-for-the-docs-Portal.md)
 
