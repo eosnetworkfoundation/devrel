@@ -9,4 +9,4 @@ Provide content to the DevRel team in Markdown (.md) format. Please use our Mark
 
    Use active voice. Refer to the [Google Style Guide](https://github.com/google/styleguide), as needed.
 
-7. [Submit your content](./How-To-Submit-Content-to-the-docs-Portal.md) via PR
+7. [Submit your content](./How-To-Submit-Content-to-the-Docs-Portal.md) via PR
