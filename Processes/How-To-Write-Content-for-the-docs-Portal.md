@@ -3,10 +3,10 @@ Provide content to the DevRel team in Markdown (.md) format. Please use our Mark
 
 1. [Apply a template to your content](../Templates/index.md), if applicable
 
-2. [Write your content](./How-To-Write-Content-for-the-docs-Portal.md)
+2. Write your content
 
-   Use the topic designations provided by the template to organize your content  
+      * Use topic designations provided by the template to organize your content  
 
-   Use active voice. Refer to the [Google Style Guide](https://github.com/google/styleguide), as needed.
+      * Use active voice. Refer to the [Google Style Guide](https://github.com/google/styleguide), as needed.
 
 7. [Submit your content](./How-To-Submit-Content-to-the-Docs-Portal.md) via PR

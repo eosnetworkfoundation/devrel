@@ -5,14 +5,11 @@ This document provides instructions for content contributors to the [EOS Documen
 
 Create a pull request (PR) to submit content to the Docs Portal. The DevRel team will check the accuracy of the content.
 
-### Stages of Submission Process
+### Steps of Submission Process
 
-* Create Pull Request (PR)
-
-* Make edits/corrections on PR, as needed 
-* [How to write content for the Docs Portal](/processes/how-to-write-content-for-the-Docs-portal.md) 
-
-* [How to submit content to the Docs Portal](processes/how-to-submit-content-to-the-docs-portal.md) 
-
-
+1. Learn about our [templates process](../Templates/index.md)
+2. Create Pull Request (PR)
+3. Follow guidelines to [write content for the Docs Portal](../Processes/How-To-Write-Content-for-the-docs-Portal.md) 
+4. Make edits/corrections on PR, as needed 
+5. Follow guidelines to [submit content to the Docs Portal](../Processes/How-To-Submit-Content-to-the-Docs-Portal.md) 
 
