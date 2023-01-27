@@ -1,17 +1,16 @@
 # How to Use EOS Doc Templates
 
-The DOS Doc Templates are a guide for contributors to submit content to the EOS Documentation Portal. 
+The EOS Doc Templates are a guide for contributors to submit content to the EOS Documentation Portal. 
 
 The Templates provide the following:
 
-* Provide a structure and guidelines for your content
+* They provide a structure and guidelines for your content
 
-* Use MarkDown language.
+* They use MarkDown language
 
-* Have instructions for the type of information for your content within brackets [...]
+* They have instructions for the type of information for your content within brackets [...]
 
-* Optional section titles. 
-If a section title contains "(Optional)" and you don’t need to add information for that topic, add the description “N/A”.
+* They contain optional section titles - If a section title contains "(Optional)" and you don’t need to add information for that topic, add the description “N/A”.
 
 Please include your email or telegram address so DevRel can reach out to you with any questions.
 
@@ -29,7 +28,7 @@ The following templates are available as guidelines to your content:
 ## How to Apply a Template to Your Content
 Complete the following steps to apply a template to your content:
 1. Open a new document in your .md editor.
-2. Open the DevRel repository [Templates](../Templates/index.md) folderthen select a template from the [Available Templates](#available-templates).
+2. Open the DevRel repository [Templates](../Templates/index.md) folder and then select a template from the [Available Templates](#available-templates).
 3. Copy the contents of the template file.
 4. Paste the contents of the template file into your new document and then write your content.
 
