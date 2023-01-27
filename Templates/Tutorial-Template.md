@@ -1,5 +1,7 @@
 # [Achieve Result] Tutorial
 
+**Note**: You need to add test data or tools necessary to complete and test the tutorial, if applicable. A tutorial should contain 7 or less steps, if possible. If you have more than 7 steps, consider dividing the tutorial into two separate tutorials. Keep the tutorial experience for the user to an hour or less, if possible.
+
 Applicable Roles: [Identify developer roles/personas that find this type of information useful.]
 
 # Introduction
