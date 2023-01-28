@@ -5,12 +5,12 @@ The following table provides definitions for GitHub branches used in this proces
 | **Branch** | **Definition** | 
 | --- | --- |
 | Current | The current branch is the present branch. This branch has focus. | 
-| Default | Each repository contains one default branch,  called main. GitHub creates this branch when a repository is initialized. | 
+| Default | Each repository contains one default branch, called `main`. GitHub creates this branch when a repository is initialized. | 
 | Local | Your local branch on GitHub resides in your local environment. Changes made to the local branch are merged into a target branch. | 
 | Main | The main branch is typically the default branch. PRs merge a source branch to the main branch. | 
 | Remote | The remote branch is typically your local branch. | 
 | Source | The source branch contains updates to be merged into the target branch. Typically the changes you made previously to the target branch become the source branch for the final merge into the main branch. | 
-| Target | The repository and branch location where you want your new or updated content to reside | 
+| Target | The repository and branch location where you want to push your updated content | 
 
 ## How to Publish New or Updated Content to EOS Documentation
 
@@ -35,7 +35,7 @@ Complete the following steps to create/edit files:
     **Note**: The target GitHub repository is the location where you want to edit or add new content, the repo where you want to push your changes. 
 
 
-**For example**: When adding glossary items to the glossary, the target GitHuib repository is the “docs” repository, which contains the glossary file.   
+**For example**: When adding glossary items to the glossary, the target GitHub repository is the `docs` repository, which contains the glossary file.   
 
 
 2. Launch the GitHub web editor. Click . (to use the same tab) or > (to use a new tab).  
