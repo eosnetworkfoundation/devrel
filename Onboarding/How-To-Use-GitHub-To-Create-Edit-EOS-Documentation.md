@@ -4,13 +4,13 @@ The following table provides definitions for GitHub branches used in this proces
 
 | **Branch** | **Definition** | 
 | --- | --- |
-| Current | The current branch is the present branch. This branch has focus. | 
+| Current | The current branch is the present branch. It is the one on which you are working. | 
 | Default | Each repository contains one default branch, called `main`. GitHub creates this branch when a repository is initialized. | 
-| Local | Your local branch on GitHub resides in your local environment. Changes made to the local branch are merged into a target branch. | 
-| Main | The main branch is typically the default branch. PRs merge a source branch to the main branch. | 
-| Remote | The remote branch is typically your local branch. | 
-| Source | The source branch contains updates to be merged into the target branch. Typically the changes you made previously to the target branch become the source branch for the final merge into the main branch. | 
-| Target | The repository and branch location where you want to push your updated content | 
+| Local | A local branch resides in your local environment. | 
+| Main | The main branch is typically the default branch. | 
+| Remote | A remote branch resides on an external environment such as github. | 
+| Source | The source branch contains updates to be merged into the target branch. | 
+| Target | The branch location where you want to push your updated content | 
 
 ## How to Publish New or Updated Content to EOS Documentation
 
