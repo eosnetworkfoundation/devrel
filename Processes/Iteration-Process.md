@@ -21,8 +21,24 @@ One iteration consists of two weeks as follows:
 |Friday|VEG review staging; Publish|
 |
 
-## Important URLs
-**Docs**
+## Devrel GitHub Repos
+Use the following links to access the related reposibories, branches, and boards in GitHub:
+
+Repo/Branch/Board|Link|
+|---|---|
+|Devrel Repo|https://github.com/eosnetworkfoundation/devrel|
+|Docs Repo|https://github.com/eosnetworkfoundation/docs|
+|Docs Staging Branch|[Staging](https://github.com/eosnetworkfoundation/docs/tree/staging)|
+|Docs Production Branch|[Main](https://github.com/eosnetworkfoundation/docs/tree/main)|
+Docsgen Repo|[Docsgen](https://github.com/eosnetworkfoundation/docsgen)|
+|Docsgen Staging Branch|[Staging](https://github.com/eosnetworkfoundation/docsgen/tree/staging)|
+|Docsgen Production Branch|[Main](https://github.com/eosnetworkfoundation/docsgen/tree/main)|
+|Devrel Project Board|[Devrel Project Board](https://github.com/orgs/eosnetworkfoundation/projects/18)|
+|
+## Documentation Portals
+Use the following links to access their related portals:
+
+**Docs Portal**
 - Staging: https://staging-docs.eosnetwork.com/
 - Production: https://docs.eosnetwork.com/
 
