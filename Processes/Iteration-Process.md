@@ -1,4 +1,4 @@
-# Iteration Timeline
+# Iteration Process
 
 One iteration consists of two weeks as follows:
 ## Week 1
