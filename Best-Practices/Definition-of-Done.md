@@ -3,3 +3,4 @@ Definition of done is defined upfront before work begins and applies to all tick
 * Must have peer review and be validated
 * If applicable, PRs merged to all applicable branches
 * If applicable, must be visually inspected in final format
+* Tickets must be closed, and status must be done or discarded
