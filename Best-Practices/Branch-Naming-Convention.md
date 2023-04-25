@@ -1,4 +1,4 @@
-When you create a new DevRel branch, use the following branch naming convention:
+When you create a new branch in `docs`, `docsgen`, or any other DevRel owned repository, use the following branch naming convention:
 
 `<feature|bugfix>/<meaningful-name>`
 
